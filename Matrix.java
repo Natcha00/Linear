@@ -4,7 +4,7 @@ public class Matrix {
         int matrixA[][] = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
         int matrixB[][] = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
         // int n = 4;
-//xxxxxxxxxxx
+//xxxxxxxxxxxxxxxx
         Matrix mat = new Matrix();
         int result[][] = new int[matrixA.length][matrixA[0].length];
         result = matrixA; // [3][3]
